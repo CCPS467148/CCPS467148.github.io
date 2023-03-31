@@ -1,25 +1,35 @@
 p {
   color: #0055b3;
+  font-size: 16pt;
 }
 
 ul {
-  color: #0055b3;}
+  color: #0055b3;
+  font-size: 16pt;
+}
 
 ol {
-  color: #0055b3;}
+  color: #0055b3;
+  font-size: 16pt;
+}
 
 h1{
   font-weight: bold;
-  font-style: }
+  font-style: Time New Roman;
+  font-size: 16pt;
+}
 
 header {
   color: #0055b3;
+  font-size: 16pt;
 }
 
 body {
   color: #0055b3;
+  font-size: 16pt;
 }
 
 footer {
   color: #0055b3;
+  font-size: 16pt;
 }
