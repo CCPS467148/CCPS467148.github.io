@@ -1,9 +1,25 @@
 p {
-color: pink;
+  color: #0055b3;
 }
+
 ul {
-color: blue;}
+  color: #0055b3;}
+
 ol {
-color: #e47200;}
+  color: #0055b3;}
+
 h1{
+  font-weight: bold;
+  font-style: }
+
+header {
+  color: #0055b3;
+}
+
+body {
+  color: #0055b3;
+}
+
+footer {
+  color: #0055b3;
 }
